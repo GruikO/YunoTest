@@ -18,6 +18,7 @@ app=$YNH_APP_INSTANCE_NAME
 # Retrieve arguments
 domain=$YNH_APP_ARG_DOMAIN
 path=$YNH_APP_ARG_PATH
+is_public=$YNH_APP_ARG_IS_PUBLIC
 
 # Source YunoHost helpers
 source /usr/share/yunohost/helpers
